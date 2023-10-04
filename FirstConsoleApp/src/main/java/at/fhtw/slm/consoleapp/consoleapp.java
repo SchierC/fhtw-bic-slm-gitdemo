@@ -1,4 +1,4 @@
-package at.fhtw.slm;
+package at.fhtw.slm.consoleapp;
 
 public class consoleapp {
     public static void main(String[] args) {
