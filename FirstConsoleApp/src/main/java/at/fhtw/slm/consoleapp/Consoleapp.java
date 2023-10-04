@@ -6,6 +6,8 @@ public class Consoleapp {
 
         User user = new User(1, "test", "test");
         User user2 = new User(2, "test2", "test2");
-        
+
+        Order order = new Order(1, "test");
+        Order order2 = new Order(2, "test2");
     }
 }
